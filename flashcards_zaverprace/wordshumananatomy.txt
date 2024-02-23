@@ -1,0 +1,12 @@
+eye;oko
+shoulder;rameno
+leg;noha
+elbow;loket
+forearm;predlokti
+spleen;slezina
+throat;hrdlo
+kidney;ledvina
+tongue;jazyk
+vein;zila
+muscle;sval
+ankle;kotnik

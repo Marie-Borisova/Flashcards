@@ -1,0 +1,12 @@
+dog;pes
+porcupine;dikobraz
+cat;kocka
+python;krajta
+raven;havran
+rabbit;kralik
+pig;prase
+spider;pavouk
+rat;krysa
+woodpecker;datel
+orca;kosatka
+octopus;chobotnice

@@ -1,0 +1,12 @@
+carrot;mrkev
+parsley;petrzel
+strawberry;jahoda
+cucumber;okurka
+pineapple;ananas
+cherry;tresen
+lemon;citron
+potato;brambora
+cauliflower;kvetak
+radish;redkev
+plum;svestka
+raspberry;malina

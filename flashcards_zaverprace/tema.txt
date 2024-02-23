@@ -1,0 +1,8 @@
+6. Flashcards 
+
+Zkuste vlastním stylem vymyslet aplikaci pro učení slovíček. 
+Ze souboru si načtěte slovíčka (cizí jazyk a český jazyk) a následně budete náhodně generovat nějaké slovo,
+podle toho, jestli si uživatel vybere český nebo cizí význam.
+Následně musí napsat jeho překlad. Sami si můžete vybrat, kolik slov necháte uživatele procvičovat. 
+Nakonec mu vypíšete skóre, kolik procent slov se mu povedlo uhádnout.
+K tomu uložíte do souboru ta slovíčka, která uživatel neznal.
